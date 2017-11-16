@@ -1,2 +1,2 @@
-## Machine Learning for Chemists and Chemical Engineers
+## Machine Learning Algorithms in Chemistry and Chemical Engineering
 ### By: Reza Javidi, Ph.D. 
