@@ -1,2 +1,2 @@
-## Machine Learning By Example
+## Machine Learning with Examples
 ### By: Reza Javidi, Ph.D. 
